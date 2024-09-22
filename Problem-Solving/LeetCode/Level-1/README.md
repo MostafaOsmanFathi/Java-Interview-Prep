@@ -5,9 +5,10 @@ I am currently training on problem-solving by following [this GitHub repository]
 ## Progress
 
 - [ ] LeetCode Array1 
-    - Array I
-    - Array II
-    - Array III
+    - Array I       15 problems
+    - Array II      15 problems
+    - Array III     14 problems
+    - Array IIII    13 problems
 
 ## Goals
 
